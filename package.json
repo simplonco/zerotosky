@@ -1,0 +1,20 @@
+{
+  "name": "zerotosky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplonco/zerotosky.git"
+  },
+  "keywords": [],
+  "author": "Rodolphe D. <dutchr@live.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplonco/zerotosky/issues"
+  },
+  "homepage": "https://github.com/simplonco/zerotosky#readme"
+}
