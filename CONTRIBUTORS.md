@@ -1,1 +1,0 @@
-- [@bu7ch](https://github.com/bu7ch)
