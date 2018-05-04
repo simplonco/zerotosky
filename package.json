@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "backpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/simplonco/zerotosky/issues"
   },
-  "homepage": "https://github.com/simplonco/zerotosky#readme"
+  "homepage": "https://github.com/simplonco/zerotosky#readme",
+  "dependencies": {
+    "backpack-core": "^0.7.0"
+  },
+  "devDependencies": {
+    "babel-preset-stage-3": "^6.24.1"
+  }
 }
